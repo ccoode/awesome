@@ -19,7 +19,7 @@ https://github.com/justjavac/free-programming-books-zh_CN
 
 #### 学习方法
 
-* [如何学习编程语言](http://zh.m.wikihow.com/%E5%AD%A6%E4%B9%A0%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
+* [如何学习编程语言](http://zh.wikihow.com/%E5%AD%A6%E4%B9%A0%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
 
 #### Web
 
