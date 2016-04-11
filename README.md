@@ -7,9 +7,7 @@
  * [资料合集](#资料合集)
  * [学习方法](#学习方法)
  * [Web](#web)
-<br>
-* [工具](#工具)
- * [Git](#git) 
+ * [版本控制](#版本控制)
 
 ### 语言无关类
 
@@ -28,9 +26,7 @@
 * [Mozilla 开发者网络](https://developer.mozilla.org/zh-CN/)
 * [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 
-
-### 工具
-#### Git
+#### 版本控制
 
 * Pro Git
  * [网页版](https://git-scm.com/book/zh/v2)
