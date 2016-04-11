@@ -3,18 +3,24 @@
 ### 资料合集
 
 https://github.com/jobbole
-<br>
+
 https://github.com/justjavac/free-programming-books-zh_CN
 
 ### 目录
 
 * [语言无关类](#语言无关类)
- * [Web](#Web) 
+ * [学习方法](#学习方法)
+ * [Web](#Web)
 <br>
 * [工具](#工具)
  * [Git](#Git) 
 
 ### 语言无关类
+
+#### 学习方法
+
+* [如何学习编程语言](http://zh.m.wikihow.com/%E5%AD%A6%E4%B9%A0%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
+
 #### Web
 
 * [前端技能汇总 (JacksonTian/fks)](http://html5ify.com/fks/)
