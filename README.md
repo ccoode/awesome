@@ -1,13 +1,10 @@
 # programming_doc
 
-### 资料合集
-
-* <a href="https://github.com/jobbole" target="_blank">伯乐在线</a>
-* <a href="https://github.com/justjavac/free-programming-books-zh_CN" target="_blank">justjavac/free-programming-books-zh_CN</a>
 
 ### 目录
 
 * [语言无关类](#语言无关类)
+ * [资料合集](#资料合集)
  * [学习方法](#学习方法)
  * [Web](#web)
 <br>
@@ -15,6 +12,11 @@
  * [Git](#git) 
 
 ### 语言无关类
+
+#### 资料合集
+
+* [伯乐在线](https://github.com/jobbole)
+* [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
 #### 学习方法
 
