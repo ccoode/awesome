@@ -10,10 +10,10 @@ https://github.com/justjavac/free-programming-books-zh_CN
 
 * [语言无关类](#语言无关类)
  * [学习方法](#学习方法)
- * [Web](#Web)
+ * [Web](#web)
 <br>
 * [工具](#工具)
- * [Git](#Git) 
+ * [Git](#git) 
 
 ### 语言无关类
 
