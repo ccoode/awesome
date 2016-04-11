@@ -2,9 +2,8 @@
 
 ### 资料合集
 
-https://github.com/jobbole
-
-https://github.com/justjavac/free-programming-books-zh_CN
+* <a href="https://github.com/jobbole" target="_blank">伯乐在线</a>
+* <a href="https://github.com/justjavac/free-programming-books-zh_CN" target="_blank">justjavac/free-programming-books-zh_CN</a>
 
 ### 目录
 
