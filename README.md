@@ -6,6 +6,7 @@
 * [语言无关类](#语言无关类)
  * [资料合集](#资料合集)
  * [学习方法](#学习方法)
+ * [在线学习](#在线学习)
  * [Web](#web)
  * [版本控制](#版本控制)
 
@@ -19,6 +20,17 @@
 #### 学习方法
 
 * [如何学习编程语言](http://zh.wikihow.com/%E5%AD%A6%E4%B9%A0%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
+
+#### 在线学习
+
+* [FreeCodeCamp](https://www.freecodecamp.com/)
+* [Codecademy](https://www.codecademy.com)
+* [Open Source Society University](https://github.com/open-source-society/computer-science)
+* [edX](https://www.edx.org/)
+* [Coursera](https://www.coursera.org/)
+* [Udacity](https://www.udacity.com/)
+* [MIT Open Courseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
+* [Stanford University](https://lagunita.stanford.edu/)
 
 #### Web
 
