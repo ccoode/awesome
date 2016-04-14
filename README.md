@@ -16,6 +16,7 @@
 
 * [伯乐在线](https://github.com/jobbole)
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+* [icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
 
 #### 学习方法
 
