@@ -1,5 +1,6 @@
 # programming_doc
 
+欢迎任何人使用 Issues 或者 Pull Request 分享学习资源！
 
 ### 目录
 
@@ -45,3 +46,7 @@
 * Pro Git
  * [网页版](https://git-scm.com/book/zh/v2)
  * [epub](https://progit2.s3.amazonaws.com/zh/2015-12-02-9d8a9/progit-zh.936.epub)
+
+### License
+
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
