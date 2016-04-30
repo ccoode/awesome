@@ -37,6 +37,7 @@
 
 * [free-programming-books-zh_CN #读书笔记及其它](https://github.com/justjavac/free-programming-books-zh_CN#%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E5%8F%8A%E5%85%B6%E5%AE%83)
 * [我如何用二十天刷完 SICP · 梁杰的个人博客](http://numbbbbb.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/)
+* [黑客的含义 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/04/on_hacker.html)
 
 ### 学习经验
 
