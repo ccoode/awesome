@@ -43,6 +43,7 @@
 
 * [如何学习编程语言](http://zh.wikihow.com/%E5%AD%A6%E4%B9%A0%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
 * [如何长时间高效学习？ - 知乎](https://www.zhihu.com/question/28358499/answer/43002343)
+* [如何掌握程序语言-backup](http://yinwang0.lofter.com/post/183ec2_47bea8)
 
 ### 在线学习
 
