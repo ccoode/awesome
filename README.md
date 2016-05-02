@@ -28,10 +28,11 @@
 
 ### 资料合集
 
-* [伯乐在线](https://github.com/jobbole)
-* [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-* [icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
 * [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
+* [icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
+* [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+* [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
+* [伯乐在线](https://github.com/jobbole)
 
 ### 读书笔记
 
