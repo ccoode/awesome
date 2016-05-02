@@ -29,7 +29,7 @@
 
 #### 计算机科学理论
 
-* 《计算机程序的结构和解释》（SICP）
+* 《计算机程序的构造和解释》（SICP）
  * [PDF](https://github.com/sarabander/sicp-pdf)
  * [HTML5](http://sarabander.github.io/sicp/)
  * [SICP 公开课中文化](https://github.com/DeathKing/Learning-SICP)
