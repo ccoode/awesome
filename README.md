@@ -8,6 +8,7 @@
  * [Web](#web)
  * [版本控制](#版本控制)
  * [计算机科学理论](#计算机科学理论)
+* [语言相关类](#语言相关类)
 * [资料合集](#资料合集)
 * [读书笔记](#读书笔记)
 * [学习经验](#学习经验)
@@ -41,6 +42,13 @@
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 * [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 * [伯乐在线](https://github.com/jobbole)
+
+### 语言相关类
+
+#### Lisp
+
+* [Yet Another Scheme Tutorial](http://www.shido.info/lisp/idx_scm_e.html)
+* [Yet Another Scheme Tutorial（中文版）](http://deathking.github.io/yast-cn/index.html)
 
 ### 读书笔记
 
