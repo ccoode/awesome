@@ -67,38 +67,7 @@ h6 {
 p {
     font-size: 1rem;
 }
-/*
-@media (max-width: 480px) {
-    html {
-        font-size: 12px;
-    }
-}
 
-@media (min-width: 480px) {
-    html {
-        font-size: 13px;
-    }
-}
-
-@media (min-width: 768px) {
-    html {
-        font-size: 14px;
-    }
-}
-
-@media (min-width: 992px) {
-    html {
-        font-size: 15px;
-    }
-}
-
-@media (min-width: 1200px) {
-    html {
-        font-size: 16px;
-    }
-}
-
-*/
 pre {
     display: block;
     padding: 14px;
@@ -122,15 +91,6 @@ pre code {
         margin:10px auto;
     }
 }
-
-
-/*
-Description: Foundation 4 docs style for highlight.js
-Author: Dan Allen <dan.j.allen@gmail.com>
-Website: http://foundation.zurb.com/docs/
-Version: 1.0
-Date: 2013-04-02
-*/
 
 pre code {
   display: block; padding: 0.5em;
