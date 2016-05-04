@@ -5,11 +5,11 @@
 ### 目录
 
 * [语言无关类](#语言无关类)
- * [Web](#web)
- * [版本控制](#版本控制)
- * [计算机科学理论](#计算机科学理论)
+    * [Web](#web)
+    * [版本控制](#版本控制)
+    * [计算机科学理论](#计算机科学理论)
 * [语言相关类](#语言相关类)
- * [Lisp](#lisp)
+    * [Lisp](#lisp)
 * [资料合集](#资料合集)
 * [读书笔记](#读书笔记)
 * [学习经验](#学习经验)
@@ -26,15 +26,15 @@
 #### 版本控制
 
 * Pro Git
- * [网页版](https://git-scm.com/book/zh/v2)
- * [epub](https://progit2.s3.amazonaws.com/zh/2015-12-02-9d8a9/progit-zh.936.epub)
+    * [网页版](https://git-scm.com/book/zh/v2)
+    * [epub](https://progit2.s3.amazonaws.com/zh/2015-12-02-9d8a9/progit-zh.936.epub)
 
 #### 计算机科学理论
 
 * 《计算机程序的构造和解释》（SICP）
- * [PDF](https://github.com/sarabander/sicp-pdf)
- * [HTML5](http://sarabander.github.io/sicp/)
- * [SICP 公开课中文化](https://github.com/DeathKing/Learning-SICP)
+    * [PDF](https://github.com/sarabander/sicp-pdf)
+    * [HTML5](http://sarabander.github.io/sicp/)
+* [SICP 公开课中文化](https://github.com/DeathKing/Learning-SICP)
 
 ### 语言相关类
 
