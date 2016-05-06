@@ -40,6 +40,7 @@
 
 #### Lisp
 
+* [The Scheme Programming Language, 4th Edition](http://www.scheme.com/tspl4/)
 * [Yet Another Scheme Tutorial](http://www.shido.info/lisp/idx_scm_e.html)
 * [Yet Another Scheme Tutorial（中文版）](http://deathking.github.io/yast-cn/index.html)
 
