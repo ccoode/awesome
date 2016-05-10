@@ -24,9 +24,9 @@ Shadowsocks 软件本身是免费的，但是服务器毕竟要收费。
 
 1. 打开 [Commits · shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/commits/master) 复制 commit（提交）的 message，如 `Merge pull request #538 from Mygod/master`
 
-2. 打开[shadowsocks-windows 1.0.144 - AppVeyor](https://ci.appveyor.com/project/icylogic/shadowsocks-windows-l9mwe)
+2. 打开 [shadowsocks-windows 1.0.144 - AppVeyor](https://ci.appveyor.com/project/icylogic/shadowsocks-windows-l9mwe)
 
-3. 点击「History」，按 Ctrl_F 粘贴，找到并点击匹配的条目。
+3. 点击「History」，按 Ctrl_F ，粘贴，找到并点击匹配的条目。
 
 4. 点击「Configuration: Release」再点击「ARTIFACTS」，最后点击 `shadowsocks-csharp\bin\x86\Release\Shadowsocks.exe`
 
@@ -56,8 +56,8 @@ apk下载 [Releases · shadowsocks/shadowsocks-android](https://github.com/shado
 
 当你试图下载以上软件时，很可能根本下不了。
 
-先从 [Bittorrent Sync](https://getsync.com/) 下载程序，安装之，打开之，点击「 V 」按钮，点击「输入密钥或链接」……
+先下载 [Bittorrent Sync](https://getsync.com/) ，安装之，打开之，点击「 V 」按钮，点击「输入密钥或链接」……
 
 输入 `BUPLLQONGQGAQRZMID7QW4WZ7DPKBZLG7`
 
-没人开 btsync 时，你可能收不到……
+没人开 btsync 时，你什么都收不到……
