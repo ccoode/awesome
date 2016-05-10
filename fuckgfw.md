@@ -56,7 +56,7 @@ apk下载 [Releases · shadowsocks/shadowsocks-android](https://github.com/shado
 
 当你试图下载以上软件时，很可能根本下不了。
 
-先从 https://getsync.com/ 下载程序，安装之，打开之，点击「 V 」按钮，点击「输入密钥或链接」……
+先从 [Bittorrent Sync](https://getsync.com/) 下载程序，安装之，打开之，点击「 V 」按钮，点击「输入密钥或链接」……
 
 输入 `BUPLLQONGQGAQRZMID7QW4WZ7DPKBZLG7`
 
