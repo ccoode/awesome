@@ -40,49 +40,53 @@ h6 {
     line-height: 1.7;
 }
 h1 {
-    font-size: 2.5rem;
-    margin-bottom: 2.5rem;
+    font-size: 2.25rem;
+    margin-bottom: 2rem;
 }
 
 h2 {
-    font-size: 2.25rem;
-}
-
-h3 {
     font-size: 2rem;
 }
 
-h4 {
+h3 {
     font-size: 1.75rem;
 }
 
-h5 {
+h4 {
     font-size: 1.5rem;
 }
 
+h5 {
+    font-size: 1.3rem;
+}
+
 h6 {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
 }
 
 p {
     font-size: 1rem;
 }
 
-pre {
-    display: block;
-    padding: 14px;
-    margin: 0 0 18px;
-    line-height: 16px;
-    font-size: 14px;
-    border: 1px solid #d9d9d9;
-    white-space: pre-wrap;
-    word-wrap: break-word;
+pre, code {
+  font-size: 15px;
+  border: 1px solid #e8e8e8;
+  border-radius: 3px;
+  background-color: #eef;
 }
-pre code {
-    background-color: #fff;
-    color:#737373;
-    font-size: 14px;
-    padding: 0;
+
+
+code { padding: 1px 5px; }
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+}
+
+pre > code {
+  border: 0;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 @media screen and (min-width: 768px) {
@@ -90,110 +94,4 @@ pre code {
         width: 748px;
         margin:10px auto;
     }
-}
-
-pre code {
-  display: block; padding: 0.5em;
-  background: #eee;
-}
-
-pre .decorator,
-pre .annotation {
-  color: #000077;
-}
-
-pre .attribute {
-  color: #070;
-}
-
-pre .value,
-pre .string,
-pre .scss .value .string {
-  color: #d14;
-}
-
-pre .comment {
-  color: #998;
-  font-style: italic;
-}
-
-pre .function .title {
-  color: #900;
-}
-
-pre .class {
-  color: #458;
-}
-
-pre .id,
-pre .pseudo,
-pre .constant,
-pre .hexcolor {
-  color: teal;
-}
-
-pre .variable {
-  color: #336699;
-}
-
-pre .javadoc {
-  color: #997700;
-}
-
-pre .pi,
-pre .doctype {
-  color: #3344bb;
-}
-
-pre .number {
-  color: #099;
-}
-
-pre .important {
-  color: #f00;
-}
-
-pre .label {
-  color: #970;
-}
-
-pre .preprocessor {
-  color: #579;
-}
-
-pre .reserved,
-pre .keyword,
-pre .scss .value {
-  color: #000;
-}
-
-pre .regexp {
-  background-color: #fff0ff;
-  color: #880088;
-}
-
-pre .symbol {
-  color: #990073;
-}
-
-pre .symbol .string {
-  color: #a60;
-}
-
-pre .tag {
-  color: #007700;
-}
-
-pre .at_rule,
-pre .at_rule .keyword {
-  color: #088;
-}
-
-pre .at_rule .preprocessor {
-  color: #808;
-}
-
-pre .scss .tag,
-pre .scss .attribute {
-  color: #339;
 }
