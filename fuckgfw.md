@@ -28,7 +28,7 @@ Shadowsocks 软件本身是免费的，但是服务器毕竟要收费。
 
 3. 点击「History」，按 Ctrl_F 粘贴，找到并点击匹配的条目。
 
-4. 点击「Configuration: Release」再点击「ARTIFACTS」，最后点击 「shadowsocks-csharp\bin\x86\Release\Shadowsocks.exe」
+4. 点击「Configuration: Release」再点击「ARTIFACTS」，最后点击 `shadowsocks-csharp\bin\x86\Release\Shadowsocks.exe`
 
 例如：[shadowsocks-windows 1.0.140 - AppVeyor](https://ci.appveyor.com/project/icylogic/shadowsocks-windows-l9mwe/build/1.0.140/job/c8idljh94oq43v2p/artifacts)
 
