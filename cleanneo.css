@@ -24,12 +24,16 @@ a:hover {
     color: #0050a3;
     text-decoration: none;
 }
+
 a img {
     border: none;
 }
+
 p {
     margin-bottom: 0.5rem;
+    font-size: 1rem;
 }
+
 h1,
 h2,
 h3,
@@ -64,8 +68,8 @@ h6 {
     font-size: 1.2rem;
 }
 
-p {
-    font-size: 1rem;
+li > ul, li > ol {
+    margin-bottom: 0.5rem;
 }
 
 pre, code {
@@ -76,7 +80,9 @@ pre, code {
 }
 
 
-code { padding: 1px 5px; }
+code {
+padding: 1px 5px;
+}
 
 pre {
   padding: 8px 12px;
