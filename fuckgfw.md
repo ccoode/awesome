@@ -58,6 +58,6 @@ apk下载 [Releases · shadowsocks/shadowsocks-android](https://github.com/shado
 
 先下载 [Bittorrent Sync](https://getsync.com/) ，安装之，打开之，点击「 V 」按钮，点击「输入密钥或链接」……
 
-输入 `BUPLLQONGQGAQRZMID7QW4WZ7DPKBZLG7`
+输入 `A7ENMYSLLFI5FUZBBQ7TGLSKMXJOCW5VC`
 
 没人开 btsync 时，你什么都收不到……
