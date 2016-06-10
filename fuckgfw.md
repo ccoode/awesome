@@ -44,7 +44,7 @@ apk下载 [Releases · shadowsocks/shadowsocks-android](https://github.com/shado
 
 [Shadowrocket](https://itunes.apple.com/cn/app/shadowrocket/id932747118)
 
-## lantern
+## Lantern
 
 优点：软件和服务完全免费
 
