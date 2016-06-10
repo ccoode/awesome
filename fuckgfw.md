@@ -1,7 +1,26 @@
 翻墙软件分享
 -------------
 
-## Shadowsocks
+### Bittorrent Sync 分享文件
+
+当你试图下载以下软件时，很可能根本下不了。
+
+先下载 [Bittorrent Sync](https://getsync.com/) ，安装之，打开之，点击「 V 」按钮，点击「输入密钥或链接」……
+
+输入 `A7ENMYSLLFI5FUZBBQ7TGLSKMXJOCW5VC`
+
+没人开 btsync 时，你什么都收不到……
+
+### Lantern
+
+优点：软件和服务完全免费
+
+官网 [Lantern - Open Internet for Everyone](https://getlantern.org/)
+
+源代码 [getlantern/lantern](https://github.com/getlantern/lantern)
+
+
+### Shadowsocks
 
 Shadowsocks 软件本身是免费的，但是服务器毕竟要收费。
 
@@ -43,21 +62,3 @@ apk下载 [Releases · shadowsocks/shadowsocks-android](https://github.com/shado
 #### iOS
 
 [Shadowrocket](https://itunes.apple.com/cn/app/shadowrocket/id932747118)
-
-## Lantern
-
-优点：软件和服务完全免费
-
-官网 [Lantern - Open Internet for Everyone](https://getlantern.org/)
-
-源代码 [getlantern/lantern](https://github.com/getlantern/lantern)
-
-## Bittorrent Sync 分享文件
-
-当你试图下载以上软件时，很可能根本下不了。
-
-先下载 [Bittorrent Sync](https://getsync.com/) ，安装之，打开之，点击「 V 」按钮，点击「输入密钥或链接」……
-
-输入 `A7ENMYSLLFI5FUZBBQ7TGLSKMXJOCW5VC`
-
-没人开 btsync 时，你什么都收不到……
