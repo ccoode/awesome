@@ -61,4 +61,7 @@ apk下载 [Releases · shadowsocks/shadowsocks-android](https://github.com/shado
 
 #### iOS
 
-[Shadowrocket](https://itunes.apple.com/cn/app/shadowrocket/id932747118)
+* [Shadowrocket](https://itunes.apple.com/cn/app/shadowrocket/id932747118)
+* Potatso
+    * [App Store](https://itunes.apple.com/us/app/id1070901416)
+    * [GitHub 仓库](https://github.com/icodesign/Potatso-iOS)
