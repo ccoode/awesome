@@ -15,16 +15,11 @@ body {
     line-height: 1.5;
     margin: 10px 13px 10px 13px;
 }
+
 a {
-    color: #0069d6;
+    color: #46A7E9;
     text-decoration: none;
 }
-
-a:hover {
-    color: #0050a3;
-    text-decoration: none;
-}
-
 a img {
     border: none;
 }
