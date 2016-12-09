@@ -2,7 +2,7 @@
 
 [HTML Version](https://ccoode.github.io/programming_doc/)
 
-[Fuck GFW](https://ccoode.github.io/programming_doc/fuckgfw/)
+[Fuck GFW](https://ccoode.github.io/programming_doc/fuckgfw.html)
 
 欢迎任何人使用 Issues 或者 Pull Request 分享学习资源！
 
