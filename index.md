@@ -68,7 +68,3 @@ title: programming_doc
 * [Udacity](https://www.udacity.com/)
 * [MIT Open Courseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
 * [Stanford University](https://lagunita.stanford.edu/)
-
-## License
-
-[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
