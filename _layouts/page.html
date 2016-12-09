@@ -3,7 +3,7 @@
 <head>
   <meta name=viewport content="width=device-width, initial-scale=1" />
   <title>{{ page.title }}</title>
-  <link href="assets/style.css" rel="stylesheet">
+  <link href="{{ "/assets/style.css" | relative_url }}" rel="stylesheet">
 </head>
 <body>
     {%if page.title %}<h1>{{ page.title }}</h1>{% endif %}
@@ -99,14 +99,5 @@
     };
     /* APPLY */
     createTOC('body', '[data-js-toc]', true);
-    document.querySelector('[data-js-toc]>ul').addEventListener('click', function(event) {
-        var target = event.target;
-        var hash = target.hash;
-        if (hash) {
-            event.preventDefault();
-            Util.scrollToPos(hash, 700);
-            window.location.hash = hash;
-        }
-    });
 </script>
 </html>
