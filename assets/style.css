@@ -64,6 +64,10 @@ li > ul, li > ol {
     margin-bottom: 0.5rem;
 }
 
+li:not(:last-of-type) {
+    margin-bottom: 4px;
+}
+
 pre, code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
