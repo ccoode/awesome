@@ -1,5 +1,7 @@
-翻墙软件分享
--------------
+---
+title: 翻墙软件分享
+layout: page
+---
 
 ### Bittorrent Sync 分享文件
 
