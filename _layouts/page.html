@@ -6,14 +6,107 @@
   <link href="assets/style.css" rel="stylesheet">
 </head>
 <body>
-{{ content }}
+    {%if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+    <div data-js-toc class="toc"></div>
+    {{ content }}
 </body>
-<script type="text/javascript">
+<script>
     var links = document.links;
     for (var i = 0, linksLength = links.length; i < linksLength; i++) {
        if (links[i].hostname != window.location.hostname) {
            links[i].target = '_blank';
        }
     }
+    /*copy from http://blog.lxjwlt.com/front-end/2014/07/06/js-create-directory.html */
+    var createTOC = function(src, target, isDirNum) {
+        var headingElem = document.querySelectorAll(src + '>h2,' + src + '>h3');
+        if (headingElem.length === 0) {
+            return;
+        }
+        target = document.querySelector(target);
+        var contentArray = [],
+            headingId = [],
+            levelArray, root, level,
+            currentList, list, li, link, i, len;
+        /*获取标题编号 标题内容*/
+        levelArray = (function(headingElem, contentArray, headingId) {
+
+            var levelArray = [],
+                lastNum = +headingElem[0].tagName.match(/\d/)[0],
+                lastRevNum = 1,
+                count = 0,
+                lastRevNum, num, rootNum = lastNum;
+
+            Array.prototype.forEach.call(headingElem, function(element) {
+                /*保存标题内容*/
+                contentArray.push(element.innerText);
+                /*修正*/
+                num = +element.tagName.match(/\d/)[0] - rootNum + 1;
+                if (num > lastNum) {
+                    levelArray.push(1);
+                    lastRevNum += 1;
+                } else if (num === lastRevNum ||
+                    num > lastRevNum && num <= lastNum) {
+                    levelArray.push(0);
+                    lastRevNum = lastRevNum;
+                } else if (num < lastRevNum) {
+                    levelArray.push(num - lastRevNum);
+                    lastRevNum = num;
+                }
+                count += levelArray[levelArray.length - 1];
+                lastNum = num;
+                /*添加标识符*/
+                element.id = element.id || element.innerText.replace(/[\s&\/\\#,.+=$~%'":*?<>{}\]\[()@`]/g, "").toLowerCase();
+                headingId.push(element.id);
+            });
+            /*避免一开始就进入下一层*/
+            if (count !== 0 && levelArray[0] === 1) levelArray[0] = 0;
+            return levelArray;
+        })(headingElem, contentArray, headingId);
+        /*构造目录*/
+        currentList = root = document.createElement('ul');
+        var dirNum = [0];
+        for (i = 0, len = levelArray.length; i < len; i++) {
+            level = levelArray[i];
+            if (level === 1) {
+                list = document.createElement('ul');
+                if (!currentList.lastElementChild) {
+                    currentList.appendChild(document.createElement('li'));
+                }
+                currentList.lastElementChild.appendChild(list);
+                currentList = list;
+                dirNum.push(0);
+            } else if (level < 0) {
+                level *= 2;
+                while (level++) {
+                    if (level % 2) dirNum.pop();
+                    currentList = currentList.parentNode;
+                }
+            }
+            dirNum[dirNum.length - 1]++;
+            li = document.createElement('li');
+            link = document.createElement('a');
+            link.href = '#' + headingId[i];
+            link.innerText = !isDirNum ? contentArray[i] :
+                dirNum.join('.') + '. ' + contentArray[i];
+            li.appendChild(link);
+            currentList.appendChild(li);
+        }
+        if (len) {
+            target.innerHTML = "<h3>Table of Contents</h3>";
+            target.appendChild(root);
+        }
+    };
+    /* APPLY */
+    createTOC('body', '[data-js-toc]', true);
+    document.querySelector('[data-js-toc]>ul').addEventListener('click', function(event) {
+        var target = event.target;
+        var hash = target.hash;
+        if (hash) {
+            event.preventDefault();
+            Util.scrollToPos(hash, 700);
+            window.location.hash = hash;
+        }
+    });
 </script>
 </html>

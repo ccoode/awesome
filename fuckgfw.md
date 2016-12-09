@@ -1,6 +1,9 @@
-# 翻墙软件分享
+---
+title: 翻墙软件分享
+permalink: /proxy/
+---
 
-### Bittorrent Sync 分享文件
+## Bittorrent Sync 分享文件
 
 当你试图下载以下软件时，很可能根本下不了。
 
@@ -10,7 +13,7 @@
 
 没人开 btsync 时，你什么都收不到……
 
-### Lantern
+## Lantern
 
 优点：软件和服务完全免费
 
@@ -19,18 +22,18 @@
 源代码 [getlantern/lantern](https://github.com/getlantern/lantern)
 
 
-### Shadowsocks
+## Shadowsocks
 
 Shadowsocks 软件本身是免费的，但是服务器毕竟要收费。
 
 推荐 [BlueCloud](https://bluecloud.xyz/) 中的 DarkCloud，它提供很多优质节点。不过，质量要看具体的网络环境，建议先买 7 天试用期，再考虑买一个季度，不建议购买长期的服务，毕竟防火墙在不断进步。
 
-#### Mac OS, Linux, BSD
+### Mac OS, Linux, BSD
 
 [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
 
 
-#### Windows
+### Windows
 
 源代码 [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/tree/master)
 
@@ -38,13 +41,13 @@ Shadowsocks 软件本身是免费的，但是服务器毕竟要收费。
 
 [Shadowsocks Windows 使用说明](https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 
-#### Android
+### Android
 
 源代码 [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
 
 apk下载 [Releases · shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases)
 
-#### iOS
+### iOS
 
 * [Shadowrocket](https://itunes.apple.com/cn/app/shadowrocket/id932747118)
 * Potatso
