@@ -3,15 +3,15 @@ title: 翻墙软件分享
 permalink: /proxy/
 ---
 
-## Bittorrent Sync 分享文件
+## Resilio Sync 分享文件
 
 当你试图下载以下软件时，很可能根本下不了。
 
-先下载 [Bittorrent Sync](https://getsync.com/) ，安装之，打开之，点击「 V 」按钮，点击「输入密钥或链接」……
+先下载 [Resilio Sync](https://www.resilio.com/individuals/)，安装之，打开之，点击「 V 」按钮，点击「输入密钥或链接」……
 
 输入 `A7ENMYSLLFI5FUZBBQ7TGLSKMXJOCW5VC`
 
-没人开 btsync 时，你什么都收不到……
+没人开 Sync 时，你什么都收不到……
 
 ## Lantern
 
