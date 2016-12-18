@@ -6,6 +6,8 @@
   <link href="{{ "/assets/style.css" | relative_url }}" rel="stylesheet">
 </head>
 <body>
+    {% capture my_include %}{% include header.md %}{% endcapture %}
+    {{ my_include | markdownify }}
     {%if page.title %}<h1>{{ page.title }}</h1>{% endif %}
     <div data-js-toc class="toc"></div>
     {{ content }}
