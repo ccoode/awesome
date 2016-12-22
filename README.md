@@ -1,4 +1,4 @@
-[查看 programming_doc](https://ccoode.github.io/programming_doc/)
+[查看 Awesome](https://ccoode.github.io/awesome/)
 
 分享你的资料：
 
