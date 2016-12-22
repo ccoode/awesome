@@ -1,10 +1,11 @@
 ---
-title: programming_doc
+title: Awesome
 ---
 
 ## 资料合集
 
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [DevDocs API Documentation](http://devdocs.io/)
 * [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
 * [icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -28,7 +29,6 @@ title: programming_doc
 
 * [前端技能汇总 (JacksonTian/fks)](http://html5ify.com/fks/)
 * [Mozilla 开发者网络](https://developer.mozilla.org/zh-CN/)
-* [DevDocs API Documentation](http://devdocs.io/)
 * [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 
 ### 版本控制
