@@ -1,5 +1,5 @@
 url: "https://ccoode.github.io"
-baseurl: "programming_doc"
+baseurl: "awesome"
 markdown: kramdown
 kramdown:
     input: GFM
