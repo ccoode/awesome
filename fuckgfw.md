@@ -15,7 +15,7 @@ permalink: /proxy/
 
 ## Lantern
 
-优点：软件和服务完全免费
+现已不完全免费
 
 官网 [Lantern - Open Internet for Everyone](https://getlantern.org/)
 
@@ -53,3 +53,7 @@ apk下载 [Releases · shadowsocks/shadowsocks-android](https://github.com/shado
 * Potatso
     * [App Store](https://itunes.apple.com/us/app/id1070901416)
     * [GitHub 仓库](https://github.com/shadowsocks/Potatso)
+
+## 更多
+
+[模板:突破网络封锁技术 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Template:%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81%E6%8A%80%E6%9C%AF)
