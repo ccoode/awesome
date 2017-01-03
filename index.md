@@ -12,7 +12,7 @@ title: Awesome
 * [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 * [伯乐在线](https://github.com/jobbole)
 
-## 在线学习
+## 教育平台
 
 * [FreeCodeCamp](https://www.freecodecamp.com/)
 * [Codecademy](https://www.codecademy.com)
@@ -22,6 +22,15 @@ title: Awesome
 * [Udacity](https://www.udacity.com/)
 * [MIT Open Courseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
 * [Stanford University](https://lagunita.stanford.edu/)
+* [Code School](https://www.codeschool.com/)
+* [慕课网(IMOOC)](http://www.imooc.com/)
+* [网易云课堂](http://study.163.com/)
+
+## 编程练习
+
+* [Project Euler](https://projecteuler.net/)
+* [Codewars](https://www.codewars.com/)
+* [LeetCode](https://leetcode.com/)
 
 ## 语言无关类
 
