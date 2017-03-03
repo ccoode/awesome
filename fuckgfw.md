@@ -13,20 +13,11 @@ permalink: /proxy/
 
 没人开 Sync 时，你什么都收不到……
 
-## Lantern
-
-现已不完全免费
-
-官网 [Lantern - Open Internet for Everyone](https://getlantern.org/)
-
-源代码 [getlantern/lantern](https://github.com/getlantern/lantern)
-
-
 ## Shadowsocks
 
 Shadowsocks 软件本身是免费的，但是服务器毕竟要收费。
 
-推荐 [MonoCloud](https://monocloud.co/) 中的 DarkCloud，它提供很多优质节点。不过，质量要看具体的网络环境，建议先买 7 天试用期，再考虑买一个季度，不建议购买长期的服务，毕竟防火墙在不断进步。
+推荐 [MonoCloud](https://monocloud.net/) 中的 [MonoCloud S](https://monocloud.net/plan/category/2) 和 DarkCloud。质量要看具体的网络环境，建议先买 7 天试用期，再考虑买一个季度，不建议购买长期的服务，毕竟防火墙在不断进步。
 
 ### Mac OS, Linux, BSD
 
@@ -50,9 +41,15 @@ apk下载 [Releases · shadowsocks/shadowsocks-android](https://github.com/shado
 ### iOS
 
 * [Shadowrocket](https://itunes.apple.com/cn/app/shadowrocket/id932747118)
-* Potatso
-    * [App Store](https://itunes.apple.com/us/app/id1070901416)
-    * [GitHub 仓库](https://github.com/shadowsocks/Potatso)
+* [Potatso](https://itunes.apple.com/us/app/id1070901416)
+
+## Lantern
+
+现已不完全免费
+
+官网 [Lantern - Open Internet for Everyone](https://getlantern.org/)
+
+源代码 [getlantern/lantern](https://github.com/getlantern/lantern)
 
 ## 更多
 
