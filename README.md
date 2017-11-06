@@ -3,7 +3,6 @@
 分享你的资料：
 
 - [编程相关](index.md)
-- [翻墙工具](fuckgfw.md)
 
 License:
 
